@@ -1,0 +1,13 @@
+C:\Users\Tatiana\Downloads\TrabajoMC08\x64\Debug\MC08.vcxproj.AssemblyReference.cache
+C:\Users\Tatiana\Downloads\TrabajoMC08\x64\Debug\MC08.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\Downloads\TrabajoMC08\x64\Debug\MC08.FormIntegrantes.resources
+C:\Users\Tatiana\Downloads\TrabajoMC08\x64\Debug\MC08.menu.resources
+C:\Users\Tatiana\Downloads\TrabajoMC08\x64\Debug\MC08.MyForm.resources
+C:\Users\Tatiana\Downloads\TrabajoMC08\x64\Debug\MC08.vcxproj.GenerateResource.cache
+C:\Users\Tatiana\Downloads\TrabajoMC08\x64\Debug\MC08.exe
+D:\Ordenar\Ciclo 3\TrabajoMC08\x64\Debug\MC08.vcxproj.AssemblyReference.cache
+D:\Ordenar\Ciclo 3\TrabajoMC08\x64\Debug\MC08.FormIntegrantes.resources
+D:\Ordenar\Ciclo 3\TrabajoMC08\x64\Debug\MC08.menu.resources
+D:\Ordenar\Ciclo 3\TrabajoMC08\x64\Debug\MC08.MyForm.resources
+D:\Ordenar\Ciclo 3\TrabajoMC08\x64\Debug\MC08.vcxproj.GenerateResource.cache
+D:\Ordenar\Ciclo 3\TrabajoMC08\x64\Debug\MC08.exe
